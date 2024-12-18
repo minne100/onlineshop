@@ -1,2 +1,4 @@
 /attachments/shop_images/*
 /application/logs/*
+/.idx/.date/*
+/.idx/*
